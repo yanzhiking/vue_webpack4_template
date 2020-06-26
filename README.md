@@ -1,5 +1,5 @@
 
-# Vue-cli 项目升级 webpack4
+# Vue-cli webpack4 (This is a template of vue-cli project with webpack4)
 
 webpack4之后提升的编译速度
 
